@@ -8,3 +8,4 @@ List of talks I've given in chronological order: </br>
 4.) How to get started in Open Source - Oct 2014 </br>
 5.) Introducation to Mozilla and it's Projects - Oct 2014 </br>
 6.) Porn - The Enterpruner - Barcamp Bangalore 2015 </br>
+7.) Introduction to SQL - San Diego, CA | Spring 2018
